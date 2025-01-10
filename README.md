@@ -73,5 +73,5 @@ Quantum dots (QDs) are nanoscale particles with unique optical and electronic pr
 3. Abdellatif et al., "Biomedical Applications of Quantum Dots," Int. J. Nanomedicine, 2022.
 
 ---
-## 📽️ Video illustrating 
+## 📽️ Video illustrating :
 https://github.com/user-attachments/assets/ed3cd3bf-42ee-44da-a44c-30b33bf6cc3f
