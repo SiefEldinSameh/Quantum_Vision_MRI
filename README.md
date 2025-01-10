@@ -4,7 +4,7 @@
 
 **Breaking the barriers of traditional imaging with quantum tunneling and AI-driven precision!**
 
-<img src="./assets/Imaginary%20look.png" alt="Quantum Vision MRI Visualization" width="800px">
+<img src="./assets/Imaginary%20look.png" alt="Quantum Vision MRI Visualization" width="700px">
 
 ---
 
