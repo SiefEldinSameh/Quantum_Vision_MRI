@@ -74,4 +74,4 @@ Quantum dots (QDs) are nanoscale particles with unique optical and electronic pr
 
 ---
 ## 📽️ Video illustrating 
-https://github.com/SiefEldinSameh/Quantum_Vision_MRI/blob/main/assets/Quantum%20Vision%20MRI.mp4
+https://github.com/user-attachments/assets/ed3cd3bf-42ee-44da-a44c-30b33bf6cc3f
