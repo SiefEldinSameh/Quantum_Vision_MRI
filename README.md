@@ -4,7 +4,7 @@
 
 **Breaking the barriers of traditional imaging with quantum tunneling and AI-driven precision!**
 
-![Quantum Vision MRI Visualization](assets/Imaginary%20look.png)  
+<img src="./assets/Imaginary%20look.png" alt="Quantum Vision MRI Visualization" width="800px">
 
 ---
 
@@ -73,3 +73,5 @@ Quantum dots (QDs) are nanoscale particles with unique optical and electronic pr
 3. Abdellatif et al., "Biomedical Applications of Quantum Dots," Int. J. Nanomedicine, 2022.
 
 ---
+## 📽️ Video illustrating 
+https://github.com/SiefEldinSameh/Quantum_Vision_MRI/blob/main/assets/Quantum%20Vision%20MRI.mp4
